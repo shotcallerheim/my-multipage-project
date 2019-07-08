@@ -58,6 +58,8 @@
     ```HTML
     <table> <!-- table-->
         <tr> <!-- table row -->
+            <td> <!-- table data -->
+            </td>
         </tr>
     </table>
     ```
