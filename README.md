@@ -66,18 +66,18 @@
 * Ensure that there is a _navigation path_ that makes it possible to view each of the pages.
     * A _navigation path_ is a set of links from one web page to another that allows internet users to _navigate_ through the web.
 
-## Part 3 - Rename files
+## Part 4 - Rename files
 * Rename each of the files to better match the content of the actual page.
     * For example, if `my-row-of-columns.html` contains several columns of bunny-images, rename `my-row-of-columns.html` to `bunny-images.html`.
 
-## Part 4 - Refactor Navigation Paths
-* Because each of the file names have been changed, create a
+## Part 5 - Refactor Navigation Paths
+* Because each of the file names have been changed, modify the links to each of the pages.
 
-## Part 5 - Stylize your WebPage
+## Part 6 - Stylize your WebPage
 * Modify the `style.css` file to ensure that each web page has a _cool style_.
 
 
-## Part 6 - Refactor your Table
+## Part 7 - Refactor your Table
 * Refactor your tables to use `div` tags rather than `table`, `tr`, and `td` tags.
 
 #### Sample Refactor
